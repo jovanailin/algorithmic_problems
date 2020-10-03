@@ -35,7 +35,7 @@ function decryptPassword(s) {
     }
 
 res = res.replace(/\*/g, "")
-console.log(res)
+return res
 }
 
 decryptPassword("51Pa*0Lp*0e")
