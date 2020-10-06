@@ -1,0 +1,4 @@
+Input: Array in the following format c = [0,0,1,0,0,1,0]
+Zeros are representing safe clouds and 1s are representing dangerous clouds.
+If the current cloud is i then we can jump on i+1 or i+2 cloud if they are safe.
+Output: minimum number of jumps required to reach the last cloud
