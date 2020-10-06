@@ -1,2 +1,2 @@
 # algorithmic_problems
-My solutions to some popular algorithmic problems
+My solutions to some HackerRank algorithmic problems
